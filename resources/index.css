@@ -14,7 +14,6 @@ body {
     Border: 3px solid green;
     padding: 15px;
     background-color: grey;
-    background-image: "resource/Lampeter_1";
 }
 
 .header h1 {
@@ -28,13 +27,11 @@ nav {
     display: inline-block;
 }
 
-.Lampeter_1 
+.Lampeter_1 {
     z-index: 0;
     position: absolute;
-    top: 0px;
-    left: 0px;
-    max-height: 100%;
-    
+    margin: 0 auto;
+    max-width: 100%;
     border: 3px solid black;
 }
 
