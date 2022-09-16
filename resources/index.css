@@ -9,9 +9,10 @@ p {
 }
 
 body {
-    margin: 10;
+    margin: 5;
     Border: 3px solid green;
     padding: 15px;
+    background-color: grey;
 }
 
 .header h1 {
@@ -19,7 +20,6 @@ body {
     font-size: 100px;
     font-weight: bold;
     color: green;
-    background-color: grey;
 }
 
 nav {
