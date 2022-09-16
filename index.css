@@ -19,18 +19,18 @@ background-image: URL(./Pattern.jpeg)
     color: khaki;
 }
 
-div.brushes h2 {
+div.gnomes h2 {
     background-color: mediumspringgreen;
     font-size: 32px;
     font-weight: bold;
     color: white;
 }
 
-div.brushes h3 {
+div.gnomes h3 {
     font-weight: bold
 }
 
-div.brushes span {
+div.gnomes span {
     font-weight: bold;
     color: blue;
 }
