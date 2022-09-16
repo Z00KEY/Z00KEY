@@ -14,6 +14,7 @@ body {
     Border: 3px solid green;
     padding: 15px;
     background-color: grey;
+    background-image: "resource/Lampeter_1";
 }
 
 .header h1 {
@@ -27,7 +28,7 @@ nav {
     display: inline-block;
 }
 
-.Lampeter_1 {
+.Lampeter_1 
     z-index: 0;
     position: absolute;
     top: 0px;
