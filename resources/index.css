@@ -42,12 +42,19 @@ nav {
 }
 
 div.gnomes h2 {
+
+}
+
+div.tea h2 {
     background-color: mediumspringgreen;
     font-size: 32px;
     font-weight: bold;
     color: white;
 }
 
-div.gnomes h3 {
+div.circles&squares h2 {
+    background-color: mediumspringgreen;
+    font-size: 32px;
     font-weight: bold;
+    color: white;
 }
