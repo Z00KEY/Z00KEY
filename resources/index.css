@@ -1,5 +1,6 @@
 * {
-    font-family: Helvetica
+    font-family: Helvetica;
+    text-align: center;
 }
 
 body {
@@ -9,7 +10,7 @@ body {
 }
 
 header {
-background-image: URL(./Pattern.jpeg)
+background-image: "resources/Lampeter 1.jpg";
 }
 
 .header h1 {
@@ -27,7 +28,7 @@ div.gnomes h2 {
 }
 
 div.gnomes h3 {
-    font-weight: bold
+    font-weight: bold;
 }
 
 div.gnomes span {
@@ -43,7 +44,7 @@ div.frames h2 {
 }
 
 div.frames h3 {
-    font-weight: bold
+    font-weight: bold;
 }
 
 div.frames span {
@@ -59,7 +60,7 @@ div.paint h2 {
 }
 
 div.paint h3 {
-    font-weight: bold
+    font-weight: bold;
 }
 
 div.paint span {
