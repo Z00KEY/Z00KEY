@@ -6,6 +6,7 @@
 p {
     font-weight: normal;
     font-size: 15px;
+}
 
 body {
     margin: 0;
@@ -19,6 +20,10 @@ body {
     font-weight: bold;
     color: khaki;
     background-color: grey;
+}
+
+.Lampeter_1 {
+    max-width: 100%;
 }
 
 div.gnomes h2 {
