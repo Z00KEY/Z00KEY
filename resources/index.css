@@ -30,6 +30,7 @@ nav {
     z-index: 0;
     position: absolute;
     top: 0px;
+    left: 0px;
     max-height: 100%;
 }
 
