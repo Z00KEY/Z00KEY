@@ -10,7 +10,7 @@ body {
 }
 
 header {
-background-image: URL(./Pattern.jpeg)
+background-image: "resources/Lampeter 1.jpg"
 }
 
 .header h1 {
