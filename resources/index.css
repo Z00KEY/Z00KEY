@@ -9,6 +9,7 @@ p {
 }
 
 body {
+    z-index: 1;
     margin: 5;
     Border: 3px solid green;
     padding: 15px;
