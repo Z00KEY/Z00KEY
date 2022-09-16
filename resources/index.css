@@ -28,6 +28,7 @@ nav {
 }
 
 .Lampeter_1 {
+    position: static;
     max-height: 100%;
     border: 3px solid black;
 }
